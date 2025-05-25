@@ -99,8 +99,7 @@ This will output:
 ## 📘 References
 
 - [📄 J310 Datasheet – onsemi](https://www.onsemi.com/pdf/datasheet/j310-d.pdf)
-- University of Siegen – Chair of Analog Circuits & Image Sensors
-- LTspice IV / XVII documentation
+
 
 ---
 
