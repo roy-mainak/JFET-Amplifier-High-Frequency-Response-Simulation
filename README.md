@@ -112,6 +112,6 @@ This will output:
 **Mainak Roy**  
 M.Sc. Electrical Engineering  
 📍 Universität Siegen  
-🔗 [github.com/roy-mainak](https://github.com/roy-mainak)
+🔗 [github.com/roy-mainak](https://www.linkedin.com/in/roy-mainak/)
 
 
