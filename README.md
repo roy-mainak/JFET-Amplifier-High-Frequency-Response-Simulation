@@ -1,4 +1,4 @@
-# ⚡️ JFET Amplifier – High Frequency Response Simulation
+#  JFET Amplifier – High Frequency Response Simulation
 
 > 📈 Frequency response analysis of a **J310 JFET common-source amplifier**, combining **LTspice simulation** with **Python visualization**. Cutoff frequency, gain behavior, and Miller effect are explored with both practical plots and theoretical reports.
 
@@ -23,8 +23,7 @@ JFET-Amplifier-High-Frequency-Response-Simulation/
 │   └── NJ.asc
 │
 ├── simulation/                    # Exported gain data + LTspice plot
-│   ├── NJ_Plot_Data.txt
-│   └── jfet_frequency_response.png
+│   ├── jfet_frequency_response.png
 │
 ├── plots/                         # Python plot script and image
 │   ├── gain_plot_python.py
@@ -32,13 +31,11 @@ JFET-Amplifier-High-Frequency-Response-Simulation/
 │
 ├── report/                        # Lab PDF reports and analysis
 │   ├── JFET_Amplifier_Simulation_Report.pdf
-│   ├── JFET_Cutoff_Miller_Effect_Analysis.pdf
-│   └── Schaltungstechnik_Aufgabe_3.pdf
+│   └── JFET_Cutoff_Miller_Effect_Analysis.pdf
 │
 ├── data/                          # Raw data if needed
 │   └── NJ_Plot_Data.txt
 │
-├── .gitignore
 └── README.md
 ```
 
